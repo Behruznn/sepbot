@@ -1,1 +1,1 @@
-# sepbot
+# bot
